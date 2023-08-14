@@ -5,7 +5,8 @@
 <br>`How to select the best sorting algorithm for a given input `
 <br>`What is a stable sorting algorithm`
 
-##Requirements:
+#Requirements:
+
 <br>`Allowed editors: vi, vim, emacs`
 <br>`All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89`
 <br>`All your files should end with a new line`
